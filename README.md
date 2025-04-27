@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Bhoomika-bhuvi
+- 👋 Hi, I’m
 - 👀 I’m interested in building scalable web applications,cloud technologies,and backend development.
 - 🌱 I’m currently learning Spring Boot adavanced features,Microservices architecture, and AWS cloud services.
 - 💞️ I’m looking to collaborate on Java-based full-stack projects,open-source contributions,and backend optimization tasks.
